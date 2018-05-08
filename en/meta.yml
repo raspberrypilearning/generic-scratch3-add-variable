@@ -1,11 +1,14 @@
-title: generic-scratch3-add-variable
+title: Add a variable in Scratch
 hero_image: images/banner.png
-description: generic-scratch3-add-variable description
-version: 4
+description: How to add a variable in Scratch 3
+original_url:
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+curriculum:
 listed: false
-copyedit: false
-last_tested: "2018-05-08"
+ingredient: true
+copyedit: true
+interests: ""
+technologies: ""
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Create a variable
