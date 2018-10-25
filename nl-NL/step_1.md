@@ -6,6 +6,6 @@
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Nadat je de variabele hebt gemaakt, wordt die in het werkgebied weergegeven, maar je kunt de variabele in het tabblad Scripts ook uitvinken om hem te verbergen.
     
     ![Variable on the stage](images/variable-show.png)
