@@ -1,11 +1,11 @@
 + Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Блоки переменной](images/data-blocks.png)
 
 + Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Создание переменной](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ После создания переменной, она будет отображаться в рабочей области. Также можно спрятать (убрать) эту переменную -- для этого нужно убрать галочку (V) во вкладке "Скрипты".
     
     ![Variable on the stage](images/variable-show.png)
