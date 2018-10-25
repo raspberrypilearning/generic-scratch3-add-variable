@@ -6,6 +6,6 @@
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Kun olet luonut muuttujan, se näkyy esiintymislavalla, tai voit poistaa muuttujan valinnan Skriptit-välilehdellä piilottaaksesi sen.
     
     ![Variable on the stage](images/variable-show.png)
