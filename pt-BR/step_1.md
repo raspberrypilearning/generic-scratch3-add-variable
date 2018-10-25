@@ -6,6 +6,6 @@
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Depois de criar a variável, ela será exibida no Palco, ou você pode desmarcar a variável na aba Scripts para ocultá-la.
     
     ![Variable on the stage](images/variable-show.png)
