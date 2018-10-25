@@ -6,6 +6,6 @@
     
     ![Create variable](images/create-variable.png)
 
-+ לאחר שיצרת את המשתנה, הוא יוצג על הבמה, או שאתה יכול לבטל את הסימון בכרטיסיית הסקריפטים כדי להסתיר את זה.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
