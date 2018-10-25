@@ -6,6 +6,6 @@
     
     ![Create variable](images/create-variable.png)
 
-+ ভেরিয়েবল তৈরি করার পর তা স্টেজে দেখা যাবে, অথবা আপনি স্ক্রিপ্ট ট্যাবে টিক দিয়ে একে সরিয়ে রাখতে পারেন যেন স্টেজে দেখা না যায়।
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
