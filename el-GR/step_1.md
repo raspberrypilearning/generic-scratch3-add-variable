@@ -1,11 +1,11 @@
 + Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Μπλοκ μεταβλητής](images/data-blocks.png)
 
 + Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Δημιούργησε μεταβλητή](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Μόλις δημιουργήσεις τη μεταβλητή, θα εμφανιστεί στο Σκηνικό. Μπορείς να αποεπιλέξεις τη μεταβλητή στην καρτέλα Σενάρια για να την αποκρύψεις.
     
     ![Variable on the stage](images/variable-show.png)
