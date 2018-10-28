@@ -1,8 +1,8 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klik op **Variabelen** in het Code tabblad en klik vervolgens op **Maak een variabele**.
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Typ de naam van je variabele in. Je kunt kiezen of je wilt dat je variabele beschikbaar is voor alle sprites of alleen voor deze sprite. Klik op **OK**.
     
     ![Create variable](images/create-variable.png)
 
