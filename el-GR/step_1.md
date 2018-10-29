@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Κάνε κλικ στο **Μεταβλητές** στην καρτέλα Κώδικας και, στη συνέχεια, κάνε κλικ στο **Δημιουργία Μεταβλητής**.
     
     ![Μπλοκ μεταβλητής](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Πληκτρολόγησε το όνομα της μεταβλητής σου. Μπορείς να επιλέξεις αν θέλεις να είναι διαθέσιμη η μεταβλητή σου σε όλα τα αντικείμενα (sprites) ή μόνο σε αυτό το αντικείμενο. Πάτησε **ΟΚ**.
     
     ![Δημιούργησε μεταβλητή](images/create-variable.png)
 
 + Μόλις δημιουργήσεις τη μεταβλητή, θα εμφανιστεί στο Σκηνικό. Μπορείς να αποεπιλέξεις τη μεταβλητή στην καρτέλα Σενάρια για να την αποκρύψεις.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Μεταβλητή στο Σκηνικό](images/variable-show.png)
