@@ -1,9 +1,9 @@
 ---
-title: Add a variable in Scratch
-hero_image: images/banner.png
+title: Pridanie premennej v jazyku Scratch
+hero_image: images / banner.png
 description: How to add a variable in Scratch 3
 original_url:
-theme: cc-prototype
+theme: cc-prototyp
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: Vytvorte premennú
