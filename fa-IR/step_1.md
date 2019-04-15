@@ -1,6 +1,6 @@
-+ بر روی **Variables** در زبانه‌ی Code کلیک کنید، سپس بر روی **Make a Variable** کلیک کنید.
++ Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![بلوک‌های متغیر](images/data-blocks.png)
+    ![Variable blocks](images/data-blocks.png)
 
 + نام متغیر خود را وارد کنید. شما می‌توانید انتخاب کنید که آیا می‌خواهید متغیر شما برای تمام شبح‌ها موجود باشد یا فقط برای این شبح در دسترس باشد. روی ** OK** کلیک کنید.
     
@@ -8,4 +8,4 @@
 
 + هنگامی که متغیر را ایجاد کرده‌اید، در صحنه نمایش داده می‌شود، شما می‌توانید با برداشتن علامت آن در زبانه‌ی Scripts، آن را پنهان کنید.
     
-    ![متغیر در صحنه](images/variable-show.png)
+    ![Variable on the stage](images/variable-show.png)
