@@ -1,8 +1,8 @@
 + Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![Değişken blokları](images/data-blocks.png)
+    ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Değişkeniniz için bir isim yazın. Değişkeninizin tüm kostümler için mi yoksa yalnızca bu kostüm için geçerli olmasını, isteyip istemediğinizi seçebilirsiniz. **TAMAM** tuşuna basın.
     
     ![Değişken oluşturun](images/create-variable.png)
 
