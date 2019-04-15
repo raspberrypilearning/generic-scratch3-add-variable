@@ -1,4 +1,4 @@
-+ Klik op **Variabelen** in het Code tabblad en klik vervolgens op **Maak een variabele**.
++ Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
     ![Variable blocks](images/data-blocks.png)
 
