@@ -1,6 +1,6 @@
-+ Clica em **Variáveis** no separador Código, depois clica em **Criar uma variável**.
++ Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![Blocos de variáveis](images/data-blocks.png)
+    ![Variable blocks](images/data-blocks.png)
 
 + Escreve o nome da tua variável. Podes escolher se queres que tua variável esteja disponível para todos os Actores ou apenas para este Actor. Clica **OK**.
     
@@ -8,4 +8,4 @@
 
 + Depois de criares a variável, ela vai ficar visível no Palco, ou podes desselecionar a variável no menu "Scripts" para a ocultares.
     
-    ![Variável no palco](images/variable-show.png)
+    ![Variable on the stage](images/variable-show.png)
