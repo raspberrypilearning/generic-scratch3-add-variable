@@ -1,8 +1,8 @@
 + Click on **Variables** in the Code tab, then click on **Make a Variable**.
     
-    ![변수 블록](images/data-blocks.png)
+    ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ 변수의 이름을 입력하십시오. 변수를 모든 스프라이트에 사용할 지 또는 이 스프라이트에만 사용할지를 선택할 수 있습니다. **확인** 키를 누릅니다.
     
     ![변수 만들기](images/create-variable.png)
 
