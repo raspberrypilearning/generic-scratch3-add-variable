@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ የእርስዎን ተለዋዋጭ ስም ይፃፉ. ተለዋዋጭዎ ለሁሉም ስፐራይቶች እንዲገኝ ወይም ለዚህ ስፐራይት ብቻ እንዲገኝ መምረጥ ይችላሉ. Press **OK**.
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ አንዴ ተለዋዋጭን ከፈጠሩ በኋላ በማሳያ ቦታዉ ላይ ይታያል ወይም ለመደበቅ ከፈለጉ ስክሪፕት ታብ ውስጥ ያለውን ተለዋዋጭ አለመምረጥ ይችላሉ.
     
     ![Variable on the stage](images/variable-show.png)
