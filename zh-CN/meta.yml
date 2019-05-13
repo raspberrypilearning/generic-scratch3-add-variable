@@ -1,7 +1,7 @@
 ---
 title: 在Scratch中添加一个变量
 hero_image: images/banner.png
-description: 如何在Scratch 3中添加变量
+description: How to add a variable in Scratch 3
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,5 @@ copyedit: true
 interests: ""
 technologies: ""
 steps:
-  - title: 创建一个变量
+  - 
+    title: 创建变量
