@@ -1,6 +1,6 @@
 ---
-title: በ ስክራች ውስጥ ተለዋዋጭ ይጨምሩ
-hero_image: images / banner.png
+title: Add a variable in Scratch
+hero_image: images/banner.png
 description: How to add a variable in Scratch 3
 original_url:
 theme: cc-prototype
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: ተለዋዋጭ ይፍጠሩ
+    title: Create a variable
