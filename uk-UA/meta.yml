@@ -1,6 +1,6 @@
 ---
-title: Add a variable in Scratch
-hero_image: images/banner.png
+title: Додайте змінну в Scratch
+hero_image: images / banner.png
 description: How to add a variable in Scratch 3
 original_url:
 theme: cc-prototype
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: Створити змінну
