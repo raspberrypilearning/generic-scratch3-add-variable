@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Zadajte názov premennej. Môžete si vybrať, či chcete, aby bola vaša premenná k dispozícii všetkým postavám, alebo iba tejto postave. Stlačte **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Vytvoriť premennú](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Akonáhle vytvoríte premennú, zobrazí sa na scéne. Ak chcete jej zobrazenie na ploche zrušiť, odstráňte jej zaškrtnutie na záložke Skripty.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
