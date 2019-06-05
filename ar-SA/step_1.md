@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ قم بكتابة اسم للمتغير. يمكنك اختيار ما إذا كنت تريد هذا المتغير أن يكون متاح لجميع الكائنات، أو فقط لهذا المتغير. اضغط على **موافق**.
     
-    ![Create variable](images/create-variable.png)
+    ![إنشاء متغير](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ بمجرد إنشاء المتغير، سيظهر على المنصة، أو يمكنك إلغاء تحديد المتغير من علامة تبويب النصوص البرمجية لإخفائه.
     
     ![Variable on the stage](images/variable-show.png)
