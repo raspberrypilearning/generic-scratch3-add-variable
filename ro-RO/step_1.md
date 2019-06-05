@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Tastează numele variabilei tale. Poți alege ca variabila ta să fie accesibilă pentru toate personajele, sau doar pentru acest personaj. Apasă **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Creează o variabilă](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Odată ce ai creat variabila, aceasta va fi afișată pe Scenă, sau poți deselecta variabila din tab-ul Cod pentru a o ascunde.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
