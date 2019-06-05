@@ -4,8 +4,8 @@
 
 + Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![変数を作成する](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ 変数の作成後、その変数がステージに表示されますが、[スクリプト]タブで変数の設定を解除すると隠すことができます。
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
