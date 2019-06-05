@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Değişkeniniz için bir isim yazın. Değişkeninizin tüm kostümler için mi yoksa yalnızca bu kostüm için geçerli olmasını, isteyip istemediğinizi seçebilirsiniz. **TAMAM** tuşuna basın.
     
-    ![Create variable](images/create-variable.png)
+    ![Değişken oluşturun](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Değişkeni oluşturduktan sonra, Sahne'de gözükecektir. Gizlemek için Diziler sekmesinde değişkenin yan tarafındaki tiki kaldırabilirsiniz.
     
     ![Variable on the stage](images/variable-show.png)
