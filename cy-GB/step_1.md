@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Clicia ar **Newidynnau** yn y tab Côd, yna clicia ar **Creu Newidyn**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Blociau newidiol](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Teipia enw dy newidyn. Mae modd i ti ddewis os wyt ti eisiau i dy newidyn fod ar gael i'r corluniau i gyd, neu dim ond y corlun yma. Clicia **Iawn**.
     
-    ![Create variable](images/create-variable.png)
+    ![Creu newidyn](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Ar ôl i ti greu'r newidyn, bydd yn ymddangos ar y Llwyfan, neu gelli di ddileu tic y newidyn yn y tab Sgriptiau i'w guddio.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Newidiannau ar y llwyfan](images/variable-show.png)
