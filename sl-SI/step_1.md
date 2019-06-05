@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Vnesi ime spremenljivke. Izbereš lahko ali naj bo tvoja spremenljivka na voljo vsem figuram ali zgolj tej figuri. Pritisni **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Ustvari spremenljivko](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Ko ustvariš spremenljivko, se bo ta prikazala na odru, lahko pa jo tudi skriješ, tako da spremenljivko odznačiš v zavihku Koda.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
