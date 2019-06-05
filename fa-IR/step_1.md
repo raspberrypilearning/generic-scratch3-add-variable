@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ نام متغیر خود را وارد کنید. شما می‌توانید انتخاب کنید که آیا می‌خواهید متغیر شما برای تمام شبح‌ها موجود باشد یا فقط برای این شبح در دسترس باشد. روی ** OK** کلیک کنید.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![ایجاد متغیر](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ هنگامی که متغیر را ایجاد کرده‌اید، در صحنه نمایش داده می‌شود، شما می‌توانید با برداشتن علامت آن در زبانه‌ی Scripts، آن را پنهان کنید.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
