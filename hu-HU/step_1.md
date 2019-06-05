@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Írd be a változó nevét. Kiválaszthatod, hogy a változó elérhető legyen-e minden szereplőnek, vagy csak ennek a szereplőnek. Nyomd meg az **OK** gombot.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Változó létrehozása](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Miután létrehoztad a változót, megjelenik a játéktéren, de el is rejtheted a változót a Változók fülön a jelölőnégyzettel.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
