@@ -1,9 +1,9 @@
 ---
-title: Dodaj spremenljivko v Scratch
-hero_image: images / banner.png
+title: Add a variable in Scratch
+hero_image: images/banner.png
 description: How to add a variable in Scratch 3
 original_url:
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Ustvari spremenljivko
+    title: Create a variable
