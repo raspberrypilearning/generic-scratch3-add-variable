@@ -2,10 +2,10 @@
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Typ de naam van je variabele in. Je kunt kiezen of je wilt dat je variabele beschikbaar is voor alle sprites of alleen voor deze sprite. Klik op **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
     ![Create variable](images/create-variable.png)
 
-+ Nadat je de variabele hebt gemaakt, wordt die in het werkgebied weergegeven, maar je kunt de variabele in het tabblad Scripts ook uitvinken om hem te verbergen.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
     ![Variable on the stage](images/variable-show.png)
