@@ -6,6 +6,6 @@
     
     ![Creare una variabile](images/create-variable.png)
 
-+ Una volta creata la variabile, questa verrà visualizzata sullo sfondo. Puoi nascondere la variabile deselezionandola nella scheda Script.
++ Una volta creata la variabile, questa verrà visualizzata sullo Stage. Puoi nascondere la variabile deselezionandola nella scheda Codice.
     
     ![Variable on the stage](images/variable-show.png)
