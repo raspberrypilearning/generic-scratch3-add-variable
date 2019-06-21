@@ -1,6 +1,6 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ 点击“脚本”选项卡中的 **数据** ，然后点击 **建立一个变量**。
     
-    ![Variable blocks](images/data-blocks.png)
+    ![变量块](images/data-blocks.png)
 
 + 输入变量的名称。 您可以选择是希望您的变量适用于所有角色还是只是当前角色。 点击**确定**
     
@@ -8,4 +8,4 @@
 
 + 一旦你创建了变量，它会显示在舞台上，或者您可以在“脚本”选项卡中取消选中该变量以隐藏它。
     
-    ![Variable on the stage](images/variable-show.png)
+    ![舞台上的变量](images/variable-show.png)
