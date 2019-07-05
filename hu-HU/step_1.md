@@ -1,6 +1,6 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ A Kód fülön kattints a **Változók** elemre, majd kattints a **Készíts változót** gombra.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Változó blokkok](images/data-blocks.png)
 
 + Írd be a változó nevét. Kiválaszthatod, hogy a változó elérhető legyen-e minden szereplőnek, vagy csak ennek a szereplőnek. Nyomd meg az **OK** gombot.
     
@@ -8,4 +8,4 @@
 
 + Miután létrehoztad a változót, megjelenik a játéktéren, de el is rejtheted a változót a Változók fülön a jelölőnégyzettel.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Változó a játéktéren](images/variable-show.png)
