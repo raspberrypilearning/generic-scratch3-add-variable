@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Clicca su **Variabili** nella scheda Codice, quindi fai clic su **Crea una variabile**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Blocchi per le variabili](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Digita il nome della tua variabile. Puoi scegliere se desideri che la tua variabile sia disponibile per tutti gli sprite o solo per lo sprite selezionato in quel momento. Premi **OK**.
     
     ![Creare una variabile](images/create-variable.png)
 
-+ Una volta creata la variabile, questa verrà visualizzata sullo Stage. Puoi nascondere la variabile deselezionandola nella scheda Codice.
++ Una volta creata la variabile, questa verrà visualizzata sullo sfondo. Puoi nascondere la variabile deselezionandola nella scheda Script.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Variabili visibili sullo sfondo](images/variable-show.png)
