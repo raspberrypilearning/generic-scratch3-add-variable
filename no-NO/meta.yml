@@ -1,7 +1,7 @@
 ---
-title: Add a variable in Scratch
+title: Legg til en variabel i Scratch
 hero_image: images/banner.png
-description: How to add a variable in Scratch 3
+description: Hvordan legge til en variabel i Scratch 3
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: Lag en variabel
