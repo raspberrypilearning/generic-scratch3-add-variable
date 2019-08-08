@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klõpsa vahekaardil Kood **Muutujatel**, seejärel klõpsa **Defineeri muutuja**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Muutujaplokid](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Sisesta oma muutuja nimi. Saad valida, kas soovid, et sinu muutuja oleks kõikidele spraitidele kättesaadav või ainult sellele spraitile. Vajuta **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Loo muutuja](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Kui oled muutuja loonud, kuvatakse see Laval, aga saad selle peitmiseks vahekaardil Skriptid muutuja eest linnukese ära võtta.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Muutuja Laval](images/variable-show.png)
