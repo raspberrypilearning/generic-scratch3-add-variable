@@ -2,7 +2,7 @@
     
     ![Variabel blokke](images/data-blocks.png)
 
-+ Skriv navnet på din variabel. Du kan vælge, om du vil have din variabel tilgængelig for alle sprites eller kun denne sprite. Tryk på ** OK **.
++ Skriv navnet på din variabel. Du kan vælge, om du vil have din variabel tilgængelig for alle sprites eller kun denne sprite. Tryk på **OK**.
     
     ![Opret variabel](images/create-variable.png)
 
