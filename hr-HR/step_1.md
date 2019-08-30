@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klikni na **Varijable** na kartici Skripte, a zatim na **Napravi varijablu**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Blokovi varijabli](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Upiši naziv svoje varijable. Možeš odabrati želiš li da tvoja varijabla bude dostupna svim likovima ili samo određenom liku. Klikni na **U redu**.
     
-    ![Definiraj varijablu](images/create-variable.png)
+    ![Kreiraj varijablu](images/create-variable.png)
 
-+ Nakon što napraviš varijablu, bit će prikazana na Pozornici. Možeš maknuti kvačicu kraj varijable na kartici Skripte da bi ju sakrio.
++ Nakon što napraviš varijablu, ona će se prikazati na pozornici. Za uklanjanje varijable s Pozornice, možeš maknuti kvačicu kraj varijable na kartici Skripte.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Varijabla na pozornici](images/variable-show.png)
