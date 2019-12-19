@@ -1,10 +1,10 @@
 ---
-title: Add a variable in Scratch
-hero_image: images/banner.png
-description: How to add a variable in Scratch 3
+title: Scratch හි විචල්යයක් එකතු කිරීම
+hero_image: images / banner.png
+description: Scratch 3 හි විචල්යයක් එකතු කරන්නේ කෙසේද
 original_url:
-theme: cc-prototype
-duration: 1
+theme: cc-ප්‍රදර්ශකය
+duration: 1 #1, 2 or 3
 curriculum:
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: විචල්යයක් සාදන්න
