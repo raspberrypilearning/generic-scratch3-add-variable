@@ -1,4 +1,4 @@
-+ Nhấp vào **Biến** trong tab mã, sau đó nhấp vào **Tạo Biến**.
++ Nhấp vào **Biến** trong Code tab, sau đó nhấp vào **Tạo Biến**.
     
     ![Các khối biến](images/data-blocks.png)
 
