@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ කේත පටිත්තෙහි(Code tab එකේ) **විචල්‍යයන්(Variables)** මත ක්ලික් කරන්න, ඉන්පසු **විචල්‍යයක් සෑදීම(Make a Variable) **මත ක්ලික් කරන්න.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![විචල්ය කට්ටි(variable blocks)](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ ඔබේ විචල්යයේ(Variable එකේ) නම ටයිප් කරන්න. ඔබේ විචල්‍යය(variable එක) සියලුම sprite වලට ලබා ගැනීමට හැකි පරිදි හෝ මෙම sprite එකට පමණක් ලබා ගැනීමට හැකිද යන්න ඔබට තෝරා ගත හැකිය. **හරි(OK)** ඔබන්න.
     
-    ![Create variable](images/create-variable.png)
+    ![විචල්යයක් සාදන්න](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ ඔබ විචල්‍යය(variable එක) නිර්මාණය කළ පසු, එය වේදිකාවේ දර්ශනය වනු ඇත, නැතහොත් ඔබට එය සැඟවීමට ස්ක්‍රිප්ට් පටිත්තෙහි(Script tab එකේ) විචල්‍යය ටික් එක ඉවත් කළ හැකිය.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![වේදිකාව මත විචල්‍යය(variable)](images/variable-show.png)
