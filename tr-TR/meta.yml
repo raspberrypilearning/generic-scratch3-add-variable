@@ -4,7 +4,7 @@ hero_image: images / banner.png
 description: Scratch 3' te bir değişken nasıl eklenir
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 curriculum:
 listed: false
 ingredient: true
