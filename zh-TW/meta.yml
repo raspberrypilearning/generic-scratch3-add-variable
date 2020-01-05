@@ -1,7 +1,7 @@
 ---
-title: Add a variable in Scratch
+title: 在 Scratch 中添加一個變數
 hero_image: images/banner.png
-description: How to add a variable in Scratch 3
+description: 如何在 Scratch 3 中添加變數
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: 創建一個變數
