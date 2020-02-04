@@ -6,6 +6,6 @@
     
     ![Buat variabel](images/create-variable.png)
 
-+ Setelah Kamu membuat variabel, variabel tersebut akan ditampilkan di Stage, atau Kamu dapat menghapus centang variabel di tab Scripts untuk menyembunyikannya.
++ Setelah kamu membuat variabel, variabel tersebut akan ditampilkan di Panggung, atau kamu dapat menghapus centang variabel di tab Scripts untuk menyembunyikannya.
     
     ![Variable on the stage](images/variable-show.png)
