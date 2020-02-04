@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ A la pestanya Codi fes clic a **Variables** i, a continuació, fes clic a **Crea una variable**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Blocs de variables](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Escriu el nom de la teva variable. Pots triar si vols que la teva variable estigui disponible per a tots els personatges o només per a aquest personatge. Prem **D'acord**.
     
-    ![Create variable](images/create-variable.png)
+    ![Crea una variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Una vegada que hagis creat la variable, aquesta es mostrarà a l'escenari. Si no vols que hi aparegui pots desmarcar-la a la pestanya Codi.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Variable a l'escenari](images/variable-show.png)
