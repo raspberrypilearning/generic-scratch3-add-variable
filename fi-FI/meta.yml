@@ -1,7 +1,7 @@
 ---
-title: Add a variable in Scratch
+title: Lisää muuttuja Scratchissa
 hero_image: images/banner.png
-description: How to add a variable in Scratch 3
+description: Kuinka lisätä muuttuja Scratch 3:ssa
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: Luo muuttuja
