@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klikkaa Koodi-välilehdellä **Muuttujat**, sitten klikkaa **Tee muuttuja**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Muuttujalohkot](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Kirjoita muuttujan nimi. Voit valita, haluatko muuttujasi olevan kaikkien hahmojen käytettävissä tai vain tämän hahmon. Paina **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Luo muuttuja](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Kun olet luonut muuttujan, se näkyy Näyttämöllä, tai voit poistaa muuttujan valinnan Skriptit-välilehdellä piilottaaksesi sen.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Muuttuja näyttämöllä](images/variable-show.png)
