@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klik **Variabel** pada tab kode kemudian klik **Buat variabel**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Blok-blok variabel](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Tulis nama variabel yang kamu inginkan. Kamu bisa memilih apakah kamu ingin variabel ini bisa diakses oleh semua sprite, atau hanya bisa diakses oleh sprite ini. Tekan **OK**.
     
     ![Buat variabel](images/create-variable.png)
 
 + Setelah kamu membuat variabel, variabel tersebut akan ditampilkan di Panggung, atau kamu dapat menghapus centang variabel di tab Scripts untuk menyembunyikannya.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Variabel di panggung](images/variable-show.png)
