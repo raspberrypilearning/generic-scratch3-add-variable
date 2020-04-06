@@ -1,11 +1,11 @@
-+ Code टैब में **Variables** पर क्लिक करें, फिर **Make a Variable** पर क्लिक करें
++ कोड खाने में **Variables** बटन पर क्लिक करें, फिर **Make a Variable** पर क्लिक करें |
     
-    ![वेरिएबल ब्लॉक](images/data-blocks.png)
+    ![(Variable) वेरिएबल ब्लॉक](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ अपनी वेरिएबल का नाम लिखें। आप चुन सकते हैं कि क्या आप चाहेंगे कि आपके वेरिएबल सभी स्प्राइट्स के लिए उपलब्ध हो, या केवल एक विशिष्ट स्प्राइट के लिए। **OK** दबाएं।
     
     ![वेरिएबल बनाएँ](images/create-variable.png)
 
-+ एक बार जब आप वेरिएबल बना लेते है, यह स्टेज पर दिखाई देगा, या आप इसे छिपाने के लिए Scripts टैब में वेरिएबल को टिक हटा सकते हैं।
++ एक बार जब आप वेरिएबल बना लेते है, यह स्टेज पर दिखाई देगा, या आप इसे छिपाने के लिए Scripts बटन में वेरिएबल का टिक हटा सकते हैं।
     
     ![Variable on the stage](images/variable-show.png)
