@@ -1,4 +1,4 @@
-+ कोड खाने में **Variables** बटन पर क्लिक करें, फिर **Make a Variable** पर क्लिक करें |
++ कोड खाने में **Variables** बटन पर क्लिक करें, फिर **Make a Variable** पर क्लिक करें ।
     
     ![(Variable) वेरिएबल ब्लॉक](images/data-blocks.png)
 
