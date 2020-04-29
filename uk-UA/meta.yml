@@ -1,10 +1,10 @@
 ---
-title: Додайте змінну в Scratch
+title: Додай змінну в Скретч
 hero_image: images/banner.png
-description: Як додати змінну в Scratch 3
+description: Як додати змінну в Скретч 3
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 curriculum:
 listed: false
 ingredient: true
