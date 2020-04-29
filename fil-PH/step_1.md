@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ I-click ang **Variables** sa tab ng Code at i-click ang **Make a Variable**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Mga variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ I-type ang pangalan ng iyong variable. Maari kang pumili kung gusto mo maging available ang iyong list sa lahat ng sprites o para lamang sa sprite na ito. Pindutin ang **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Lumikha ng isang variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Kapag nagawa mo na yung list, makikita mo ito sa stage, o pwede mo alisin ang list sa Scripts tab upang itago ito.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Variable sa stage](images/variable-show.png)
