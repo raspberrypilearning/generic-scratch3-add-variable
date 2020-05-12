@@ -2,7 +2,7 @@
     
     ![Bloki zmiennej](images/data-blocks.png)
 
-+ Wpisz nazwę swojej zmiennej. Możesz wybrać, czy chcesz, aby zmienna była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
++ Wpisz nazwę swojej zmiennej. Możesz zdecydować czy zmienna będzie dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
     
     ![Stwórz zmienną](images/create-variable.png)
 
