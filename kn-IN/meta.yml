@@ -1,0 +1,15 @@
+---
+title: ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ವೇರಿಯೇಬಲ್ ಸೇರಿಸಿ
+hero_image: images/banner.png
+description: ಸ್ಕ್ರ್ಯಾಚ್ 3 ನಲ್ಲಿ ವೇರಿಯಬಲ್ ಅನ್ನು ಹೇಗೆ ಸೇರಿಸುವುದು
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: ""
+steps:
+  - title: ವೇರಿಯಬಲ್ ರಚಿಸಿ
