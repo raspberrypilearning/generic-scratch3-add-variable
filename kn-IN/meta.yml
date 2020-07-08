@@ -1,7 +1,7 @@
 ---
-title: Add a variable in Scratch
+title: ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ವೇರಿಯೇಬಲ್ ಸೇರಿಸಿ
 hero_image: images/banner.png
-description: How to add a variable in Scratch 3
+description: ಸ್ಕ್ರ್ಯಾಚ್ 3 ನಲ್ಲಿ ವೇರಿಯಬಲ್ ಅನ್ನು ಹೇಗೆ ಸೇರಿಸುವುದು
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Create a variable
+    title: ವೇರಿಯಬಲ್ ರಚಿಸಿ
