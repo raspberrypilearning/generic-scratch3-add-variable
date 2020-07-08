@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ ಕೋಡ್ ಟ್ಯಾಬ್‌ನಲ್ಲಿ **Variables (ವೇರಿಯೇಬಲ್ಸ್)** ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ **Make a Variable (ಮೇಕ್ ಎ ವೇರಿಯಬಲ್)**ಕ್ಲಿಕ್ ಮಾಡಿ.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![ವೇರಿಯಬಲ್ ಬ್ಲಾಕ್ಗಳು](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ ನಿಮ್ಮ ವೇರಿಯೇಬಲ್ ಹೆಸರಿನಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ. ನೀವು ವೇರಿಯೇಬಲ್ ಎಲ್ಲಾ ಸ್ಪ್ರೈಟ್‌ಗಳಿಗೆ ಲಭ್ಯವಾಗಬೇಕೆಂದು ನೀವು ಬಯಸುತ್ತೀರಾ ಅಥವಾ ಈ ಸ್ಪ್ರೈಟ್‌ಗೆ ಮಾತ್ರ ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು. **OK**ಒತ್ತಿರಿ.
     
-    ![Create variable](images/create-variable.png)
+    ![ವೇರಿಯಬಲ್ ರಚಿಸಿ](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ ಒಮ್ಮೆ ನೀವು ವೇರಿಯೇಬಲ್ ಅನ್ನು ರಚಿಸಿದ ನಂತರ, ಅದನ್ನು ಸ್ಟೇಜ್‌ನಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ, ಅಥವಾ ಅದನ್ನು ಮರೆಮಾಡಲು ನೀವು ಸ್ಕ್ರಿಪ್ಟ್‌ಗಳ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ವೇರಿಯೇಬಲ್ ಅನ್ನು ಗುರುತಿಸಬಾರದು.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![ವೇದಿಕೆಯಲ್ಲಿ ವೇರಿಯಬಲ್](images/variable-show.png)
