@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Code தத்தலில்(tab) உள்ள **Variables** என்பதைக் கிளிக் செய்க, பின்னர் **Make a Variable**. என்பதைக் கிளிக் செய்க.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Variable தொகுதிகள்](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ உங்கள் மாறியின்(variable) பெயரை தட்டச்சு செய்க. உங்கள் மாறி அனைத்து Sprite-டிற்கும் கிடைக்க வேண்டுமா அல்லது இந்த sprite-க்கு மட்டுமே கிடைக்க வேண்டுமா என நீங்கள் தேர்வு செய்யலாம். **OK** -ஐ அழுத்தவும்.
     
-    ![Create variable](images/create-variable.png)
+    ![Variable-ஐ  உருவாக்கவும்](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ நீங்கள் மாறியை உருவாக்கியதும், அது மேடையில் (Stage) காட்டப்படும், அல்லது அதை மறைக்க Scripts(ஸ்கிரிப்டுகள்) தத்தலில் சரி குறியீட்டை நீக்கவும்.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![மேடையில் Variable](images/variable-show.png)
