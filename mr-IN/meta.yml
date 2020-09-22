@@ -1,0 +1,15 @@
+---
+title: स्क्रॅचमध्ये अनित्य संख्या (variable) जोडा
+hero_image: images/banner.png
+description: स्क्रॅच 3 मध्ये अनित्य संख्या कशी जोडावी
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+curriculum:
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: ""
+steps:
+  - title: एक अनित्य संख्या बनवा
