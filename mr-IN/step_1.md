@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ कोड टॅबमध्ये **Variables** वर क्लिक करा, नंतर **Make a Variable** वर क्लिक करा.
     
     ![Variable blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ आपल्या अनित्य संख्याच्या नाव लिहा. आपण आपला बदल सर्व स्प्राइट्सकरिता उपलब्ध होऊ इच्छित आहात की केवळ या स्प्राइटसाठी हे निवडू शकता. **OK**दाबा.
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ एकदा आपण अनित्य (Variable) संख्या तयार केल्यावर ते पटावर प्रदर्शित होईल किंवा याला लपविण्यासाठी अनित्य (Variable) संख्या अचिन्ह स्क्रिप्ट टॅबमध्ये करू शकता.
     
     ![Variable on the stage](images/variable-show.png)
