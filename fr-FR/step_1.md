@@ -2,7 +2,7 @@
     
     ![Blocs pour les variables](images/data-blocks.png)
 
-+ Écris le nom de ta variable. Tu peux choisir si ta variable est disponible pour tous les lutins ou seulement pour celui ci. Appuyer sur **OK**.
++ Écris le nom de ta variable. Tu peux choisir si ta variable est disponible pour tous les lutins ou seulement pour celui ci. Appuie sur **OK**.
     
     ![Créer une variable](images/create-variable.png)
 
