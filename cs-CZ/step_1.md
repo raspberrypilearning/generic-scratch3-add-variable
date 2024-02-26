@@ -1,11 +1,11 @@
-+ Click on **Variables** in the Code tab, then click on **Make a Variable**.
++ Klikni na položku **Proměnné** na záložce Scénáře a následně klikní na tlačítko **Vytvoř proměnnou**.
     
-    ![Variable blocks](images/data-blocks.png)
+    ![Seznam proměnných](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Zadej název proměnné. Můžeš si vybrat, zda chceš, aby nová proměnná byla k dispozici všem postavám nebo pouze této postavě. Nakonec stiskni tlačítko **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Vytvoř proměnnou](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Jakmile vytvoříš proměnnou, zobrazí se na ploše scény. Můžeš ji skrýt odzaškrtnutím v seznamu proměnných.
     
-    ![Variable on the stage](images/variable-show.png)
+    ![Proménná na panelu scény](images/variable-show.png)
